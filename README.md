@@ -64,3 +64,8 @@ __Remote__
 
 __Repository__
 - A Git repository tracks and saves the history of all changes made to the files in a Git project. The data in a directory called . git , also known as the repository folder.  
+
+
+Sources:
+https://devmountain.com/blog/what-is-github-and-how-do-you-use-it/
+https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796
